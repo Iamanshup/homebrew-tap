@@ -1,6 +1,6 @@
 cask "folio" do
-  version "1.0.2"
-  sha256 "7196e2a22e0ad3487b302e7246b96ea7e359a0b3ecb5f00683c25182b385cf0d"
+  version "1.1.0"
+  sha256 "dd16c011eecbd917642a37d78c817a0b33f0802981b7ca56807281b9524efa09"
 
   url "https://github.com/Iamanshup/Folio-PDFToolbox/releases/download/v#{version}/Folio-#{version}.dmg"
   name "Folio"

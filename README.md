@@ -4,7 +4,7 @@ macOS apps by [@Iamanshup](https://github.com/Iamanshup).
 
 | App | Description | Install |
 |---|---|---|
-| [Folio](https://github.com/Iamanshup/Folio-PDFToolbox) | A native PDF toolbox: merge, split, compress, convert, edit, sign, redact, OCR, translate and more, all running locally. Requires macOS 26 or later on Apple silicon. | `brew install --cask iamanshup/tap/folio` |
+| [Folio](https://github.com/Iamanshup/Folio-PDFToolbox) | A native PDF toolbox: merge, split, compress, convert, edit, sign, redact, OCR, translate and more, all running locally. Requires macOS 15 or later on Apple silicon. | `brew install --cask iamanshup/tap/folio` |
 | [SoundRouter](https://github.com/Iamanshup/SoundRouter) | A menu bar app that sends each app, or a single browser tab, to the speaker of your choice. Requires macOS 15 or later. | `brew install --cask iamanshup/tap/soundrouter` |
 
 Update with `brew upgrade --cask <name>`. Uninstall with `brew uninstall --cask <name>`; add `--zap` to also remove its settings.

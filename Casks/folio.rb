@@ -1,6 +1,6 @@
 cask "folio" do
-  version "1.0.0"
-  sha256 "4c8b66ab32b8caa166c8c353b66dc4dfec74e52196c5d02c67099579f1712947"
+  version "1.0.1"
+  sha256 "3104306fe37e7b3bb268b369d3e45587a0ef3f5a719291ec8e12979a704f6b7d"
 
   url "https://github.com/Iamanshup/Folio-PDFToolbox/releases/download/v#{version}/Folio-#{version}.dmg"
   name "Folio"
@@ -13,7 +13,7 @@ cask "folio" do
   end
 
   depends_on arch: :arm64
-  depends_on macos: :tahoe
+  depends_on macos: :sequoia
 
   app "Folio.app"
 
